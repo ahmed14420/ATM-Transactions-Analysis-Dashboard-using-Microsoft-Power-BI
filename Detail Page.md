@@ -59,7 +59,7 @@ This line chart shows the trend of total transactions over time, specifically hi
 
 ### Dashboard Image
 
-![Detailed Analysis Dashboard]()
+![Detailed Analysis Dashboard](https://github.com/ahmed14420/ATM-Transactions-Analysis-Dashboard-using-Microsoft-Power-BI/blob/main/Detail%20Page.PNG)
 
 ### Range Analysis (Current and Previous Month by ATM ID)
 
